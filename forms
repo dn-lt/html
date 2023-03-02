@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forms</title>
+</head>
+
+<body>
+	<form action="http://www.example.com/subscribe.php" method="get">
+    <fieldset>
+    	<legend>Your details:</legend>
+        <label> Name:
+        <input type="text" id="Name" value="name" /></label></br>
+        <label>Password:
+        <input type="password" id="Password" value="password"/></label><br/>   
+    </fieldset>
+    <fieldset>
+    	<legend>Your review:</legend>
+        <p></p>
+        <label for="select">How did you hear about us?</label>
+        <select name="devices" id="select">
+			<option value="google">Google</option>
+            <option value="yahoo">Yahoo</option>
+            <option vlaue="bing">Bing</option>
+        </select><br/>
+        <p></p>
+        <label for="radio">Would you visit again?</label><br/>
+        <input type="radio" id="radio" name="yes" value="yes">Yes</input>
+        <input type="radio" id="radio" name="no" value="no">No</input>
+        <input type="radio" id="radio" name="maybe" value="maybe"></input><br/>
+        <p></p>
+        <label for="comments">Comments:</label><br/>
+        <textarea name="comments" id="comments" cols="20" row="4">Enter your comments..</textarea><br/>
+        <p></p>
+        <label><input type="checkbox" name="check">Sign me up for email updates</input></label><br/>
+        <input type="submit" value="submit"></input>
+    </fieldset>
+    </form>
+</body>
+
+</html>
