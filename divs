@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the Art shop</title>
+</head>
+<body>
+    <div id="header">
+         <h1>The Art Book Shop</h1>
+         <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#new_publications">new publications</a></li>
+            <li><a href="#contact">contact</a></li>
+         </ul>
+    </div>
+   
+    <address>
+       <p>Charing Cross Road, London, WC2, UK</p> <br/>
+       <a href="tel: 02079460946"><02079460946/a><br/>
+        Email <a href="mailto:books@example.com"><books@example.com/a>
+    </address>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2303.6148364673422!2d25.21450951572595!3d54.733989480293246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd919e95680213%3A0x47b21b41af6493fe!2sDoci%C5%A1ki%C5%B3%20g.%203%2C%2006142%20Vilnius!5e0!3m2!1slt!2slt!4v1677792978893!5m2!1slt!2slt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <p>&copy The Art Bookshop</p>
+</body>
+</html>
