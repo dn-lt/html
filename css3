@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ph Table</title>
+    <style>
+        body {
+            background-color: silver;
+        }
+        .container{
+            color: white;
+            text-transform: uppercase;
+            margin: 15px 25px;
+            margin-top: 100px;
+            width: 75%;
+            
+        }
+        h1 {
+            color: rgb(48, 48, 48);
+            background-color: rgb(232, 232, 232);
+            padding: 20px;
+        }
+        .fourteen {
+            background-color: rgb(25,25,112);
+        }
+        .thirteen{ background-color: rgb(0,0,128);}
+        .twelve{ background-color: rgb(0,0,139);}
+        .eleven{ background-color: rgb(0,0,205);}
+        .ten{ background-color: rgb(0,0,255);}
+        .nine{ background-color: rgb(65,105,225);}
+        .eight{ background-color: rgb(123,104,238);}
+        .seven{ background-color: rgb(0,128,128);}
+        .six{ background-color: 	#FFA07A;}
+        .five{ background-color: #CD5C5C;}
+        .four{ background-color: #FF7F50;}
+        .three{ background-color: 	#B22222;}
+        .two{ background-color: #A52A2A;}
+        .one{ background-color: #8B0000;}
+        .zero{ background-color: #800000;}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>ph Scale</h1>
+        <div class="fourteen">14 very alkaline</div>
+        <div class="thirteen">13</div>
+        <div class="twelve">12</div>
+        <div class="eleven">11</div>
+        <div class="ten">10</div>
+        <div class="nine">9</div>
+        <div class="eight">8</div>
+        <div class="seven">7 neutral</div>
+        <div class="six">6</div>
+        <div class="five">5</div>
+        <div class="four">4</div>
+        <div class="three">3</div>
+        <div class="two">2</div>
+        <div class="one">1</div>
+        <div class="zero">0 very acid</div>
+    </div>
+
+</body>
+
+</html>
