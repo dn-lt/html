@@ -1,0 +1,69 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(249, 249, 249);
+}
+
+ul {
+    list-style-image: url('./assets/bulletsmall.png');
+}
+
+li {
+    line-height: 1.6em;
+}
+
+thead tr th {
+    background-color: rgb(129, 186, 252);
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.odd {
+    background-color: rgb(226, 232, 242);
+}
+
+td {
+    width: 150px;
+}
+
+
+th {
+    text-align: left;
+}
+
+fieldset {
+    margin-top: 20px;
+    width: 350px;
+}
+
+legend, input {
+    margin: 2px 0px 2px 0px;
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 2px;
+}
+
+input[type="email"] {
+    width: 200px;
+    padding: 2px;
+}
+
+input[type="submit"] {
+    border: 1px solid #006633;
+    background-color: #009966;
+    color: #ffff;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    border: 1px solid #006633;
+    background-color: #00cc33;
+    color: #ffff;
+    cursor: pointer;
+}
+
+.submit {
+    text-align: right;
+}
