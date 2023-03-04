@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Terrier</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(67, 63, 63);
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            color: rgb(43, 43, 53);
+            text-shadow: 2px 2px darkgray;
+            letter-spacing: 0.3em;
+        }
+
+        q {
+            color: rgb(89, 89, 141);
+            font-style: italic;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            line-height: 1.5em;
+        }
+
+        a {
+            color: brown;
+            text-decoration: none;
+        }
+
+        h2 {
+            color: rgb(43, 43, 53);
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        p+p+p {
+            text-align: right;
+            font-style: italic;
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Russian Black Terriers</h1>
+    <q>A heart wrapped in fur</q>
+    <p>The <a href="https://en.wikipedia.org/wiki/Black_Russian_Terrier" target="_blank">Black Russian Terrier</a> is a large, immensely powerful worker of heavy bone and coarse all-black coat.</p>
+    <h2>Breed History</h2>
+    <p>The Black Russian Terrier was developed in the former USSR in Red Star (Krasnaya Zvezda) Kennel by the state for use as a military/working dogs. The breeding stock was largely imported from countries where the Red Army was active during the Second World War, especially East Germany. Breeds used in the development include the Giant Schnauzer, Airedale Terrier, Rottweiler, Newfoundland, Caucasian Shepherd Dog and other breeds. The Black Russian Terrier was bred for working ability, rather than appearance, and early examples only resembled today's Black Russian Terrier in their build and coat type. They were bred solely by the state owned Red Star Kennel in Moscow until 1957, when some puppies were sold to civilian breeders. These breeders began to breed for looks (as the original was rather plain) while retaining working ability. In time, the breed spread to the other parts of USSR like Saint Petersburg, Siberia, Ukraine and later to the first European country Finland and next to the other European countries: Hungary, Czechoslovakia, Poland, Germany and finally to the United States, Canada, Australia and others.</p>
+    <p>In 1955 the first working examples of the breed were put on show at an exhibition in Moscow and the first Breed Standard was published in 1958,[1] which was then adopted by the Fédération Cynologique Internationale in 1984.[2] In 1996 The Russian Federation Working Dog-breeders & Russian Kynological Federation (RKF) adopted a second Standard for the breed more in line to the modern day Russian Black Terrier. And it was also in 1996 that the breed was first introduced into the UK. In 1998 The Kennel Club added the Russian Black Terrier to the Import Register.</p>
+    <p>by Wikipedia</p>
+</body>
+</html>
