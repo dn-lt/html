@@ -1,0 +1,51 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background-color: #b6a996;
+    background: url('./images/hobart.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    min-height: 100%;
+}
+
+main {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#hero {
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    margin-top: 10px;
+    background-color: whitesmoke;
+    border: 3px double black;
+    width: 30%;
+}
+
+.header {
+    font-weight: bold;
+    padding: 15px;
+}
+
+form {
+    position: inline-block;
+    text-align: right;
+}
+
+#btn {
+    padding: 10px;
+}
+
+#btn:hover {
+    background-color: bisque;
+}
